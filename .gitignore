@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#own additions
+testing/hello_world/build
+testing/hello_world/sdkconfig*	
