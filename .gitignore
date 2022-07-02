@@ -51,6 +51,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+
+#own ignores
+build/
+
 #own additions
-testing/hello_world/build
-testing/hello_world/sdkconfig*	
+build/
+sdkconfig*	
